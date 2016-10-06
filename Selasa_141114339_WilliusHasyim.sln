@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_1_1", "Latihan_1_1\Latihan_1_1.csproj", "{1DCC334F-123D-478F-84E1-5F9E7568EFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_1_2", "Latihan_1_2\Latihan_1_2.csproj", "{12151A4D-901D-4B23-A191-47B55BEE4D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCC334F-123D-478F-84E1-5F9E7568EFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCC334F-123D-478F-84E1-5F9E7568EFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCC334F-123D-478F-84E1-5F9E7568EFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCC334F-123D-478F-84E1-5F9E7568EFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12151A4D-901D-4B23-A191-47B55BEE4D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12151A4D-901D-4B23-A191-47B55BEE4D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12151A4D-901D-4B23-A191-47B55BEE4D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12151A4D-901D-4B23-A191-47B55BEE4D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
