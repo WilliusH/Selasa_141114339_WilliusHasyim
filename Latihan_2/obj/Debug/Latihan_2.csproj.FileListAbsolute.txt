@@ -1,0 +1,12 @@
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\bin\Debug\Latihan_2.exe.config
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\bin\Debug\Latihan_2.exe
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\bin\Debug\Latihan_2.pdb
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.csprojResolveAssemblyReference.cache
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.Form1.resources
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.Properties.Resources.resources
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.csproj.GenerateResource.Cache
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.exe
+D:\Latihan Code C#\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.pdb
+C:\Users\PeterAndrea\Desktop\Latihan_1_1\Latihan_2\bin\Debug\Latihan_2.exe.config
+C:\Users\PeterAndrea\Desktop\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.exe
+C:\Users\PeterAndrea\Desktop\Latihan_1_1\Latihan_2\obj\Debug\Latihan_2.pdb
