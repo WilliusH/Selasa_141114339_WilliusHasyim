@@ -1,0 +1,9 @@
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+C:\Users\Erwin.Nico\Downloads\Compressed\Selasa_141114339_WilliusHasyim\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
