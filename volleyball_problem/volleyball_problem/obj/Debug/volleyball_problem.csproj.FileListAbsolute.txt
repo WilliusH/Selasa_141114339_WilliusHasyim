@@ -1,0 +1,9 @@
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\semester 5\framework lanjutan\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.pdb
