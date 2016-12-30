@@ -1,0 +1,5 @@
+C:\Users\USER\Downloads\Compressed\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra\Latihan_DA\bin\Debug\Latihan_DA.exe.config
+C:\Users\USER\Downloads\Compressed\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra\Latihan_DA\obj\Debug\Latihan_DA.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Compressed\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra\Latihan_DA\obj\Debug\Latihan_DA.Form1.resources
+C:\Users\USER\Downloads\Compressed\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra\Latihan_DA\obj\Debug\Latihan_DA.Properties.Resources.resources
+C:\Users\USER\Downloads\Compressed\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra-master\Selasa_141111201_ThomasYaputra\Latihan_DA\obj\Debug\Latihan_DA.csproj.GenerateResource.Cache
